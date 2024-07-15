@@ -223,3 +223,214 @@ text-align: center;
 padding-left: 70px;
 padding-right: 70px;
 }
+
+.parent5{
+ height: 800px;
+ background-color: pink;
+ width: 100;
+ background-repeat: no-repeat;
+ background-size: 100% 100%;
+ background-image: url(desert.png);
+ 
+}
+
+.parent5_1{
+    
+   font-size: 80px;
+   color: white;
+   font-weight: bold;
+  
+   }
+
+
+  .parent5_2{
+    
+    font-size:30px;
+    color: white;
+    font-weight: 500;
+   
+    }
+
+    .parent5_3{
+        height: 500px;
+        width: 100%;
+        
+        display: flex;
+    }
+
+    .parent5_3_1{
+        height: 600px;
+            width: 410px;
+        
+    }
+
+
+    .parent5_3_1_1{
+        height: 200px;
+            width: 200px;
+            border-radius: 10px;
+        background-image: url(round-1.png);
+        background-repeat: no-repeat;
+    }
+    .parent5_3_1_2{
+        height: 30px;
+            width: 205px;
+            font-size: 20px;
+            text-align: center;
+            font-weight: 100;
+            
+            
+      
+    }
+
+    .scbutton5_3_1_3{
+        height: 150px;
+        width: 100%;
+    
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        
+    
+    }
+    
+    .butonn5_3_1_3{
+        height: 60px; 
+        width: 150px; 
+        border-radius: 6px; 
+        
+        
+        border:  1px solid rgb(255, 255, 255) !important;
+        border-color: white;
+        
+        padding: 1px;
+        
+        
+        
+    
+            
+        border-color: black;        
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    
+
+
+
+
+
+    .parent5_3_2{
+        height: 600px;
+            width: 410px;
+        
+    }
+
+    .parent5_3_2_1{
+        height: 200px;
+        width: 200px;
+        border-radius: 10px;
+    background-image: url(round-2.png);
+    background-repeat: no-repeat;
+    }
+    .parent5_3_2_2{
+        height: 30px;
+        width: 205px;
+        font-size: 20px;
+        text-align: center;
+        font-weight: 100;
+    }
+    .scbutton5_3_2_3{
+        height: 150px;
+        width: 100%;
+    
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        
+    
+    }
+    
+    .butonn5_3_2_3{
+        height: 60px; 
+        width: 150px; 
+        border-radius: 6px; 
+        
+        background-color: #ff8000;
+        border:  1px solid rgb(255, 255, 255) !important;
+        border-color: white;
+        
+        padding: 1px;
+        
+        
+        
+    
+            
+        border-color: black;        
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    
+    .parent5_3_3{
+        height: 600px;
+            width: 410px;
+        
+    }
+
+    .parent5_3_3_1{
+        height: 200px;
+        width: 200px;
+        border-radius: 10px;
+    background-image: url(round-3.png);
+    background-repeat: no-repeat;
+    }
+    .parent5_3_3_2{
+        height: 30px;
+        width: 205px;
+        font-size: 20px;
+        text-align: center;
+        font-weight: 100;
+    }
+    .scbutton5_3_3_3{
+        height: 150px;
+        width: 100%;
+    
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        
+    
+    }
+    
+    .butonn5_3_3_3{
+        height: 60px; 
+        width: 150px; 
+        border-radius: 6px; 
+        
+        
+        border:  1px solid rgb(255, 255, 255) !important;
+        border-color: white;
+        
+        padding: 1px;
+        
+        
+        
+    
+            
+        border-color: black;        
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+    /* last box code here   */
+
+    .parent6{
+    
+        height:600 ;
+        width: 100%;
+        background-color: black;
+    }
+    
+   
